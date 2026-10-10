@@ -1,0 +1,17 @@
+{
+  "name": "NTR AI Yatra",
+  "short_name": "NTR Yatra",
+  "description": "Explore NTR District with NTR AI Yatra.",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/assets/ntr-ai-yatra-logo.png",
+      "sizes": "768x768",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "background_color": "#f5f9fc",
+  "theme_color": "#06172a"
+}
